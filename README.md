@@ -10,6 +10,6 @@ The app defines following CRUD APIs.
     
     POST /api/v1/students
     
-    PUT /api/v1/students/{userId}
+    PUT /api/v1/students/{studentId}
     
-    DELETE /api/v1/students/{userId}
+    DELETE /api/v1/students/{studentId}
